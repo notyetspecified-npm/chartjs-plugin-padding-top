@@ -1,7 +1,7 @@
 {
   "name": "chartjs-plugin-padding-top",
   "description": "Chart.js plugin that fixes legend top padding",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "license": "MIT",
   "main": "dist/chartjs-plugin-padding-top.js",
   "repository": {
@@ -11,7 +11,7 @@
   "keywords": [
     "chart.js",
     "plugin",
-    "label"
+    "legend"
   ],
   "files": [
     "dist/*.js"
