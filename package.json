@@ -18,7 +18,7 @@
   ],
   "devDependencies": {
     "@types/chart.js": "^2.8.4",
-    "chart.js": "~2.8.0",
+    "chart.js": "~2.9.4",
     "gulp": "^4.0.2",
     "rollup": "^1.20.3",
     "rollup-plugin-terser": "^5.1.1",
